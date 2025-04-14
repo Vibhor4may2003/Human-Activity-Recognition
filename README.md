@@ -30,31 +30,7 @@ har-smartphone/ ├── data/ # Dataset files ├── notebooks/ # Jupyter n
 - **Accuracy:** 93.8%
 - **F1 Score:** 93.5%
 
-## 🚀 Getting Started
 
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/yourusername/har-smartphone.git
-cd har-smartphone
-
-### 2. Install dependencies
-bash
-Copy
-Edit
-pip install -r requirements.txt
-
-### 3. Run the project
-bash
-Copy
-Edit
-python src/train.py
-
-🧪 Tests
-bash
-Copy
-Edit
-pytest tests/
 
 
 
